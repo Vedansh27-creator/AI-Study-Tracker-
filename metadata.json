@@ -1,0 +1,6 @@
+{
+  "name": "AI Study Tracker",
+  "description": "Boost your productivity with AI Study Tracker, the free aesthetic online daily study tracker app. Organize study tasks, track exam countdowns, and master deep focus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
